@@ -1,0 +1,6 @@
+{
+    "invocationPhrase":"ayva",
+    "pathToSpeechModel":"./SpeechModel",
+    "dialogflow":{"developerAccessToken":null},
+    "alexa":{"skillId":null}
+}
